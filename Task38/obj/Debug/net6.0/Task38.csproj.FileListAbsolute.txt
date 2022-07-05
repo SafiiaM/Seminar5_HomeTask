@@ -1,0 +1,5 @@
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar5_HomeTask\Task38\obj\Debug\net6.0\Task38.csproj.AssemblyReference.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar5_HomeTask\Task38\obj\Debug\net6.0\Task38.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar5_HomeTask\Task38\obj\Debug\net6.0\Task38.AssemblyInfoInputs.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar5_HomeTask\Task38\obj\Debug\net6.0\Task38.AssemblyInfo.cs
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar5_HomeTask\Task38\obj\Debug\net6.0\Task38.csproj.CoreCompileInputs.cache
